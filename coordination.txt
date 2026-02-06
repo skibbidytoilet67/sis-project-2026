@@ -1,5 +1,8 @@
-* Note here the first names or initials of the members in your group.
-* Also add their github usernames and the role that you decided everyone takes.
+Cliona Bandle, Maude Schildknecht, Gabriela Garrido
 
-* Then document what topic suggestions people made and how you've reached a consensus.
-* List how you decided to split the work: Who writes about what?
+Cliona (Koordninator): theClique-destroyer,  Maude (Kontrolle): hellulu,  Gabriela (Infrastruktur): skibbidytoilet67
+
+first we exchanged to see if everyone was happy with their assigned role (which they were), and then I asked who had any ideas as to what topic we wanted to write about. We brainstormed and agreed to make our Website about the Justin Bieber Toothbrush.
+
+After agreeing on out topic, Gabi went to work on the website while Maude and I wrote our texts. We decided that everyone would have one sort of argument that they would write individually before copying into the code. In the end Maude took over the overall advantages, I did how it was beneficial for the Climate, and Gabi did how it was good for children.
+
